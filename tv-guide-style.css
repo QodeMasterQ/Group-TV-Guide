@@ -10,4 +10,8 @@ h1 {
 h4 { 
     color: white;}
 th { 
-    color: white;}
+    color: white;
+    min-width: 200px;}
+td {
+    color: white;
+    max-width: 150px;}
