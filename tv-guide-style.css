@@ -1,7 +1,3 @@
-/*body {
-    font-family: cursive;
-    background-image: url("oxtails.JPEG")
-}*/
 body{
     font-family: cursive;
     background-color: black;}
@@ -11,7 +7,25 @@ h4 {
     color: white;}
 th { 
     color: white;
-    min-width: 80px;}
+    min-width: 120px;}
 td {
     color: white;
     max-width: 150px;}
+.tv-ma {
+    background-color: blue;
+}
+.tv-g {
+    background-color: teal;
+}
+.pg {
+    background-color: darkorchid;
+}
+.tv-y {
+    background-color: darkolivegreen;
+}
+.rated-r {
+    background-color: red;
+}
+.sports {
+    background-color: chartreuse;
+}
