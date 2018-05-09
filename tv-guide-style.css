@@ -1,5 +1,5 @@
 body{
-    font-family: Papyrus, fantasy;
+    font-family: Arial, fantasy;
     background-color: black;}
 h1 {
     color: white;}
@@ -27,5 +27,11 @@ td {
     background-color: red;
 }
 .sports {
-    background-color: chartreuse;
+    background-color: limegreen;
+}
+.column img {
+    min-width: 14%;
+    width: 14%;
+    min-height: 25%;
+    height: 25%;
 }
