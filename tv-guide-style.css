@@ -35,3 +35,9 @@ td {
     min-height: 25%;
     height: 25%;
 }
+.menu {
+    width: 35px;
+    height: 5px;
+    background-color: beige;
+    margin: 6px 0;
+}
